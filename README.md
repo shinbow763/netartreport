@@ -11,11 +11,11 @@
 </head>
 <body>
 <h1>
-<h1>  <a id="first">你知道嗎..</a></h1>
+<h1>  <a id="first">你知道嗎...</a></h1>
 <p>也許有什麼事正要發生，但沒人在乎。</p>
 <p>沒有人想關心，因為大家都只想著賺錢。</p>
 
-<h1><p>人生九宮格</p></h1>
+<h1><p></p></h1>
 <table width="511" height="511" border="1">
 <tr>
 <td width="163" height="180">醫生</td>
